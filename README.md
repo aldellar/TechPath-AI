@@ -1,6 +1,6 @@
-# CareerRoutine iOS App (MVP)
+# TechPathAI iOS App (MVP)
 
-CareerRoutine helps computer science students and new grads build a **personalized weekly routine** and **interview prep plan** using OpenAI — all while keeping data 100% local to the device.  
+TechPathAI helps computer science students and new grads build a **personalized weekly routine** and **interview prep plan** using OpenAI — all while keeping data 100% local to the device.  
 
 The backend is a lightweight Node.js API that simply forwards structured prompts to OpenAI.  
 No accounts, no cloud, no data storage.
